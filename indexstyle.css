@@ -22,6 +22,24 @@
   font-family: Raleway;
   font-style: normal;
   border-radius: 12px;
+  margin-bottom: 3%;
+}
+
+.button-android {
+  background-color: #4c8246;
+  border: none;
+  color: white;
+  padding: 2%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  font-family: Raleway;
+  font-style: normal;
+  border-radius: 12px;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-bottom: 3%;
 }
 
 .button-tiktok {
@@ -38,6 +56,7 @@
   border-radius: 12px;
   margin-left: 3%;
   margin-right: 3%;
+  margin-bottom: 3%;
 }
 
 .button-discord {
@@ -52,6 +71,7 @@
   font-family: Raleway;
   font-style: normal;
   border-radius: 12px;
+  margin-bottom: 3%;
 }
 
 .images {
